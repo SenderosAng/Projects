@@ -6,3 +6,6 @@ Pyspark, Python, Marketing, Machine Learning, Deep Learning
 
 # Software Proficiency
 PowerBI, Jupyter Notebook, Snowflake, Figma, LucidChart
+
+- testing
+  -test

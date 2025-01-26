@@ -18,6 +18,9 @@ In this assignment, I created an image classification model to identify 10 types
 ## Infocomm Sales & Marketing Project 
 Conducted an in-depth analysis of Babylon Health, a leading health technology company, using frameworks such as PEST Analysis, Michael Porter’s Five Forces, and the BCG Matrix. Performed industry and company analyses to identify key opportunities and challenges, and provided strategic recommendations to drive improvements and enhance Babylon Health's competitive position.
 
+## Data Exploratory & Analysis
+In this project, I developed multiple dashboards for Flipkart, focusing on key areas such as sales seasonality, product performance, and geographic performance. Additionally, I conducted further analysis by building an ARIMA(1,1,0) model to forecast sales, providing actionable insights..
+
 ## Random facts about me
 - I like playing FPS games, specifically Valorant
 - I have more than 10k total XP on Duolingo

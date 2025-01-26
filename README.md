@@ -1,4 +1,4 @@
-# Profile
+## Profile
 Hello! I'm Senderos Ang, a Year 2 Data Science student at Ngee Ann Polytechnic as of January 2025. I am passionate about topics like Machine Learning and Deep Learning. In my free time, I enjoy playing games that involve critical thinking, such as Valorant. Additionally, I frequently work on improving and practicing my Mother Tongue. 
 
 This repository showcases some of the projects I have completed during my time at Ngee Ann Polytechnic. Feel free to check it out!
@@ -6,7 +6,14 @@ This repository showcases some of the projects I have completed during my time a
 ## Technical Skills
 Pyspark, Python, Marketing, Machine Learning, Deep Learning, C#
 
-# Software Proficiency
+## Software Proficiency
 PowerBI, Jupyter Notebook, Snowflake, Figma, LucidChart
 
-# Jupyter Notebook
+## Machine Learning Project
+In my Machine Learning module, I applied machine learning modelling in identifying the employees most likely to get promoted, creating a Logistic Regression model with a ROC-AUC Score of 88.3%.
+
+## Deep Learning Project
+In this assignment, I created an image classification model to identify 10 types of food, with a test accuracy of 62%.
+
+## Infocomm Sales & Marketing Project 
+Conducted an in-depth analysis of Babylon Health, a leading health technology company, using frameworks such as PEST Analysis, Michael Porter’s Five Forces, and the BCG Matrix. Performed industry and company analyses to identify key opportunities and challenges, and provided strategic recommendations to drive improvements and enhance Babylon Health's competitive position.

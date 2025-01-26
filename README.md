@@ -27,6 +27,7 @@ In this assignment, I created an image classification model to identify 10 types
 - paella
 - ravioli
 - scallops
+  
 Created and tested many models, such as using pre-trained networks like VGG16 and one made from scratch using Convolutional Neural Networks, with the final model having a 62% accuracy.
 
 ## Infocomm Sales & Marketing Project 

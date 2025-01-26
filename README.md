@@ -16,7 +16,18 @@ PowerBI, Jupyter Notebook, Snowflake, Figma, LucidChart
 In my Machine Learning module, I applied machine learning modelling in identifying the employees most likely to get promoted, creating a Logistic Regression model with a ROC-AUC Score of 88.3%.
 
 ## Deep Learning Project
-In this assignment, I created an image classification model to identify 10 types of food, with a test accuracy of 62%.
+In this assignment, I created an image classification model to identify 10 types of food, which are:
+- breakfast_burrito
+- cannoli
+- chocolate_mousse
+- donuts
+- grilled_salmon
+- macarons
+- oysters
+- paella
+- ravioli
+- scallops
+Created and tested many models, such as using pre-trained networks like VGG16 and one made from scratch using Convolutional Neural Networks, with the final model having a 62% accuracy.
 
 ## Infocomm Sales & Marketing Project 
 Conducted an in-depth analysis of Babylon Health, a leading health technology company, using frameworks such as PEST Analysis, Michael Porter’s Five Forces, and the BCG Matrix. Performed industry and company analyses to identify key opportunities and challenges, and provided strategic recommendations to drive improvements and enhance Babylon Health's competitive position.

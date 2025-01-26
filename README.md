@@ -4,7 +4,7 @@ Hello! I'm Senderos Ang, a Year 2 Data Science student at Ngee Ann Polytechnic a
 This repository showcases some of the projects I have completed during my time at Ngee Ann Polytechnic. Feel free to check it out!
 
 ## Download My Resume
-You can download my resume [here](Senderos.pdf).
+You can download my resume [here](Resume.pdf).
 
 ## Technical Skills
 Pyspark, Python, Marketing, Machine Learning, Deep Learning, C#
